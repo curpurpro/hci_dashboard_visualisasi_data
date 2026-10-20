@@ -5,8 +5,6 @@ Implementasi kode dari materi **Human–Computer Interaction (HCI) dan Visualisa
 
 Studi kasus: **Budi**, analis data, membutuhkan dashboard penjualan yang cepat dan mudah dipahami sebelum rapat.
 
-**Nama:** _isi nama_  |  **NIM:** _isi NIM_  |  **Mata kuliah:** Interaksi Manusia dan Komputer
-
 ## Buka di Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/NAMA_REPO/blob/main/hci_dashboard_visualisasi_data.ipynb)
 
